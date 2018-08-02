@@ -23,9 +23,10 @@
  */
 
 /*!
- * \brief Assembly library example for Arduino
- * \details Source: https://github.com/Erriez/ErriezAssembly
  * \file Foo.S
+ * \brief Assembly library example for Arduino
+ * \details
+ *      Source: https://github.com/Erriez/ErriezAssembly
  */
 
 /* Place assembly code in .text section */

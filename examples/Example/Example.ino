@@ -27,7 +27,6 @@
  * \details
  *      This is an example how to create an assembly Arduino library
  *      Source: https://github.com/Erriez/ErriezAssembly
- * \file BlinkAssembly.ino
  */
 
 #include <Arduino.h>

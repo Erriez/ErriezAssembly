@@ -23,9 +23,10 @@
  */
 
 /*!
- * \brief Assembly library example for Arduino
- * \details Source: https://github.com/Erriez/ErriezAssembly
  * \file LED.S
+ * \brief Assembly library example for Arduino
+ * \details
+ *      Source: https://github.com/Erriez/ErriezAssembly
  */
 
 /* Check Arduino UNO board */

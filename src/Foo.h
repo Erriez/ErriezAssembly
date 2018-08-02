@@ -23,9 +23,10 @@
  */
 
 /*!
- * \brief Assembly library example for Arduino
- * \details Source: https://github.com/Erriez/ErriezAssembly
  * \file Foo.h
+ * \brief Assembly library example for Arduino
+ * \details
+ *      Source: https://github.com/Erriez/ErriezAssembly
  */
 
 #ifndef FOO_H_

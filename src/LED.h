@@ -23,9 +23,10 @@
  */
 
 /*!
- * \brief Assembly library example for Arduino
- * \details Source: https://github.com/Erriez/ErriezAssembly
  * \file LED.h
+ * \brief Assembly library example for Arduino
+ * \details
+ *      Source: https://github.com/Erriez/ErriezAssembly
  */
 
 #ifndef LED_H_
