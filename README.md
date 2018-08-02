@@ -18,9 +18,9 @@ This is an assembly library example for Arduino.
 
 ## Examples
 
-Examples | Erriez Assembly Library:
+Arduino IDE | Examples | Erriez Assembly Library:
 
-* [Example](https://github.com/Erriez/ErriezAssembly/blob/master/examples/Example/Example.ino)
+* [Assembly](https://github.com/Erriez/ErriezAssembly/blob/master/examples/Assembly/Assembly.ino)
 
 
 ## Library installation
