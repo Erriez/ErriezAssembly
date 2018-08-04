@@ -29,8 +29,6 @@
  *      Source: https://github.com/Erriez/ErriezAssembly
  */
 
-#include <Arduino.h>
-
 // Library include files
 #include "Foo.h"
 #include "LED.h"
