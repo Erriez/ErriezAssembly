@@ -1,5 +1,7 @@
 # Assembly library example for Arduino
 
+[![Build Status](https://travis-ci.org/Erriez/ErriezAssembly.svg?branch=master)](https://travis-ci.org/Erriez/ErriezAssembly)
+
 This is an assembly library example for Arduino.
 
 ![Assembly](https://raw.githubusercontent.com/Erriez/ErriezAssembly/master/extras/ScreenshotAssembly.png)
