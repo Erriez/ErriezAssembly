@@ -30,8 +30,8 @@
  */
 
 /* Check Arduino UNO board */
-#ifndef ARDUINO_AVR_UNO
-#error Only tested on Arduino UNO
+#ifndef ARDUINO_ARCH_AVR
+#error Only tested on Arduino ATMega328
 #endif
 
 /* Include low level AVR pin-control */
